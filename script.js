@@ -3,7 +3,7 @@ var cardFace = ["2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A"
 var cards = [];
 var players = [[], []];
 var firstRun = true;
-var gameover = false;
+var gameover =false;
 
 
 //to add functionality of doing many rounds automatically:
