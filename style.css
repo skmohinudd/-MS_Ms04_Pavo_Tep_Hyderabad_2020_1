@@ -35,7 +35,7 @@
 .diams .suit::after{ content: '\2666';}
 
 
-.spades, .clubs{color: black;}
+.spades, .clubs{color:black;}
 .hearts, .diams{color: red;}
 
 .hand {
